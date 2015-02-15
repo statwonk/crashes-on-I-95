@@ -1,0 +1,20 @@
+Package: floridaCrashR
+Title: Functions to assist in the analysis of Florida motor vehicle crash data.
+Version: 0.1
+Authors@R: "Christopher Peters <cpeter9@gmail.com> [aut, cre]"
+Description: Functions to assist in the analysis of Florida motor vehicle crash
+    data.
+Depends:
+    R (>= 3.1.2)
+Imports:
+    dplyr,
+    XML,
+    ggplot2,
+    ggthemes,
+    scales,
+    data.table,
+    RCurl,
+    data.table,
+    reshape2
+License: MIT
+LazyData: true
